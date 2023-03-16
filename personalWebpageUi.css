@@ -21,6 +21,21 @@ body {
 
 }
 
+.servicesTypes{
+    
+    margin-left: 170px;
+    border: #717171 2px solid;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgb(238, 218, 153);
+    box-shadow: 1px 1px 7px 1px black;
+}
+
+.navElement :hover{
+    color: red;
+}
+
 #navBar {
     position: fixed;
     z-index: 1;
@@ -63,6 +78,7 @@ body {
 .serviceHeading {
     font-size: 20px;
     text-decoration: underline;
+    font-size: x-large;
 }
 
 #about {
